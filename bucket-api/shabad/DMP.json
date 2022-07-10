@@ -1,0 +1,452 @@
+{
+  "shabadinfo": {
+    "shabadid": "DMP",
+    "pageno": 1,
+    "source": {
+      "id": 1,
+      "akhar": "SRI gurU gRMQ swihb jI",
+      "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+      "english": "Sri Guru Granth Sahib Ji",
+      "length": 1430,
+      "pageName": {
+        "akhar": "AMg",
+        "unicode": "ਅੰਗ",
+        "english": "Ang"
+      }
+    },
+    "writer": {
+      "id": 1,
+      "akhar": "gurU nwnk dyv jI",
+      "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+      "english": "Guru Nanak Dev Ji"
+    },
+    "raag": {
+      "id": 1,
+      "akhar": "jpu",
+      "unicode": "ਜਪੁ",
+      "english": "Jap",
+      "startang": 1,
+      "endang": 8,
+      "raagwithpage": "Jap (1-8)"
+    },
+    "navigation": {
+      "next": {
+        "id": "LLL"
+      }
+    },
+    "count": 10
+  },
+  "shabad": [
+    {
+      "line": {
+        "id": "0NVY",
+        "type": 1,
+        "gurmukhi": {
+          "akhar": "<> siq nwmu krqw purKu inrBau inrvYru Akwl mUriq AjUnI sYBM gur pRswid ]",
+          "unicode": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "<>​siq​nwmu​krqw​purKu​inrBau​inrvYru​Akwl​mUriq​AjUnI​sYBM​gur​pRswid​]",
+          "unicode": "ੴ​ਸਤਿ​ਨਾਮੁ​ਕਰਤਾ​ਪੁਰਖੁ​ਨਿਰਭਉ​ਨਿਰਵੈਰੁ​ਅਕਾਲ​ਮੂਰਤਿ​ਅਜੂਨੀ​ਸੈਭੰ​ਗੁਰ​ਪ੍ਰਸਾਦਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One Universal Creator God. The Name Is Truth. Creative Being Personified. No Fear. No Hatred. Image Of The Undying, Beyond Birth, Self-Existent. By Guru's Grace ~"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK ie`k hY, ijs dw nwm 'hoNd vwlw' hY jo isRStI dw rcnhwr hY, jo sB ivc ivAwpk hY, BY qoN rihq hY, vYr-rihq hY, ijs dw srUp kwl qoN pry hY, (Bwv, ijs dw srIr nws-rihq hY), jo jUnW ivc nhIN AwauNdw, ijs dw pRkwS Awpxy Awp qoN hoieAw hY Aqy jo siqgurU dI ikrpw nwl imldw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ, ਜਿਸ ਦਾ ਨਾਮ 'ਹੋਂਦ ਵਾਲਾ' ਹੈ ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਹੈ, ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਭੈ ਤੋਂ ਰਹਿਤ ਹੈ, ਵੈਰ-ਰਹਿਤ ਹੈ, ਜਿਸ ਦਾ ਸਰੂਪ ਕਾਲ ਤੋਂ ਪਰੇ ਹੈ, (ਭਾਵ, ਜਿਸ ਦਾ ਸਰੀਰ ਨਾਸ-ਰਹਿਤ ਹੈ), ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜਿਸ ਦਾ ਪ੍ਰਕਾਸ਼ ਆਪਣੇ ਆਪ ਤੋਂ ਹੋਇਆ ਹੈ ਅਤੇ ਜੋ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Un sólo Creador Universal, Verdad es Su Nombre. Creativa Su Personalidad. Sin Miedo, sin Venganza. Inmortal, Sin Principio, Sin Fin, Auto Existente. Por la Gracia del Verdadero Guru."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ik oankaar sat naam karataa purakh nirbhau niravair akaal moorat ajoonee saibhan gur prasaad |",
+            "larivaar": "ik​oankaar​sat​naam​karataa​purakh​nirbhau​niravair​akaal​moorat​ajoonee​saibhan​gur​prasaad​|"
+          },
+          "devanagari": {
+            "text": "ੴ सति नामु करता पुरखु निरभउ निरवैरु अकाल मूरति अजूनी सैभं गुर प्रसादि ॥",
+            "larivaar": "ੴ​सति​नामु​करता​पुरखु​निरभउ​निरवैरु​अकाल​मूरति​अजूनी​सैभं​गुर​प्रसादि​॥"
+          }
+        },
+        "linenum": 1,
+        "firstletters": {
+          "akhar": "<>snkpnnAmAsgp",
+          "unicode": "ੴਸਨਕਪਨਨਅਮਅਸਗਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RBP6",
+        "type": 2,
+        "gurmukhi": {
+          "akhar": "] jpu ]",
+          "unicode": "॥ ਜਪੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "]​jpu​]",
+          "unicode": "॥​ਜਪੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Chant And Meditate:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "'jpu' bwxI dw nwm hY[",
+              "unicode": "'ਜਪੁ' ਬਾਣੀ ਦਾ ਨਾਮ ਹੈ।"
+            }
+          },
+          "spanish": "Canta y medita en esto,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "| jap |",
+            "larivaar": "|​jap​|"
+          },
+          "devanagari": {
+            "text": "॥ जपु ॥",
+            "larivaar": "॥​जपु​॥"
+          }
+        },
+        "linenum": 3,
+        "firstletters": {
+          "akhar": "]j]",
+          "unicode": "॥ਜ॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "J92N",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "Awid scu jugwid scu ]",
+          "unicode": "ਆਦਿ ਸਚੁ ਜੁਗਾਦਿ ਸਚੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awid​scu​jugwid​scu​]",
+          "unicode": "ਆਦਿ​ਸਚੁ​ਜੁਗਾਦਿ​ਸਚੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "True In The Primal Beginning. True Throughout The Ages."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK mu`F qoN hoNd vwlw hY, jugW dy mu`F qoN mOjUd hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਮੁੱਢ ਤੋਂ ਹੋਂਦ ਵਾਲਾ ਹੈ, ਜੁਗਾਂ ਦੇ ਮੁੱਢ ਤੋਂ ਮੌਜੂਦ ਹੈ।"
+            }
+          },
+          "spanish": "era Verdad en el principio, Él ha sido Verdad a través de todas las épocas."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aad sach jugaad sach |",
+            "larivaar": "aad​sach​jugaad​sach​|"
+          },
+          "devanagari": {
+            "text": "आदि सचु जुगादि सचु ॥",
+            "larivaar": "आदि​सचु​जुगादि​सचु​॥"
+          }
+        },
+        "linenum": 4,
+        "firstletters": {
+          "akhar": "Asjs",
+          "unicode": "ਅਸਜਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "K0U6",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "hY BI scu nwnk hosI BI scu ]1]",
+          "unicode": "ਹੈ ਭੀ ਸਚੁ ਨਾਨਕ ਹੋਸੀ ਭੀ ਸਚੁ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "hY​BI​scu​nwnk​hosI​BI​scu​]1]",
+          "unicode": "ਹੈ​ਭੀ​ਸਚੁ​ਨਾਨਕ​ਹੋਸੀ​ਭੀ​ਸਚੁ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "True Here And Now. O Nanak, Forever And Ever True. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! ies vyly BI mOjUd hY qy AgWh ƒ BI hoNd vwlw rhygw ]1]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਇਸ ਵੇਲੇ ਭੀ ਮੌਜੂਦ ਹੈ ਤੇ ਅਗਾਂਹ ਨੂੰ ਭੀ ਹੋਂਦ ਵਾਲਾ ਰਹੇਗਾ ॥੧॥"
+            }
+          },
+          "spanish": "Él es Verdad ahora, y ¡Oh!, dice Nanak, Él siempre será Verdad. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hai bhee sach naanak hosee bhee sach |1|",
+            "larivaar": "hai​bhee​sach​naanak​hosee​bhee​sach​|1|"
+          },
+          "devanagari": {
+            "text": "है भी सचु नानक होसी भी सचु ॥१॥",
+            "larivaar": "है​भी​सचु​नानक​होसी​भी​सचु​॥१॥"
+          }
+        },
+        "linenum": 4,
+        "firstletters": {
+          "akhar": "hBsnhBs",
+          "unicode": "ਹਭਸਨਹਭਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BL70",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "socY soic n hoveI jy socI lK vwr ]",
+          "unicode": "ਸੋਚੈ ਸੋਚਿ ਨ ਹੋਵਈ ਜੇ ਸੋਚੀ ਲਖ ਵਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "socY​soic​n​hoveI​jy​socI​lK​vwr​]",
+          "unicode": "ਸੋਚੈ​ਸੋਚਿ​ਨ​ਹੋਵਈ​ਜੇ​ਸੋਚੀ​ਲਖ​ਵਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By thinking, He cannot be reduced to thought, even by thinking hundreds of thousands of times."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy mYN l`K vwrI (BI) (ieSnwn Awidk nwl srIr dI) su`c r`KW, (qW BI ies qrHW) su`c r`Kx nwl (mn dI) su`c nhIN rih skdI[",
+              "unicode": "ਜੇ ਮੈਂ ਲੱਖ ਵਾਰੀ (ਭੀ) (ਇਸ਼ਨਾਨ ਆਦਿਕ ਨਾਲ ਸਰੀਰ ਦੀ) ਸੁੱਚ ਰੱਖਾਂ, (ਤਾਂ ਭੀ ਇਸ ਤਰ੍ਹਾਂ) ਸੁੱਚ ਰੱਖਣ ਨਾਲ (ਮਨ ਦੀ) ਸੁੱਚ ਨਹੀਂ ਰਹਿ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "Aunque medites en Él, millones y millones de veces, nunca acabarás de Comprenderlo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sochai soch na hovee je sochee lakh vaar |",
+            "larivaar": "sochai​soch​na​hovee​je​sochee​lakh​vaar​|"
+          },
+          "devanagari": {
+            "text": "सोचै सोचि न होवई जे सोची लख वार ॥",
+            "larivaar": "सोचै​सोचि​न​होवई​जे​सोची​लख​वार​॥"
+          }
+        },
+        "linenum": 5,
+        "firstletters": {
+          "akhar": "ssnhjslv",
+          "unicode": "ਸਸਨਹਜਸਲਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GJW9",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "cupY cup n hoveI jy lwie rhw ilv qwr ]",
+          "unicode": "ਚੁਪੈ ਚੁਪ ਨ ਹੋਵਈ ਜੇ ਲਾਇ ਰਹਾ ਲਿਵ ਤਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "cupY​cup​n​hoveI​jy​lwie​rhw​ilv​qwr​]",
+          "unicode": "ਚੁਪੈ​ਚੁਪ​ਨ​ਹੋਵਈ​ਜੇ​ਲਾਇ​ਰਹਾ​ਲਿਵ​ਤਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By remaining silent, inner silence is not obtained, even by remaining lovingly absorbed deep within."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy mYN (srIr dI) iek-qwr smwDI lweI r`KW; (qW BI ies qrHW) cu`p kr rihx nwl mn dI SWqI nhIN ho skdI[",
+              "unicode": "ਜੇ ਮੈਂ (ਸਰੀਰ ਦੀ) ਇਕ-ਤਾਰ ਸਮਾਧੀ ਲਾਈ ਰੱਖਾਂ; (ਤਾਂ ਭੀ ਇਸ ਤਰ੍ਹਾਂ) ਚੁੱਪ ਕਰ ਰਹਿਣ ਨਾਲ ਮਨ ਦੀ ਸ਼ਾਂਤੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "por más que pienses profundamente en Él, la mente no se desprenderá para unirse con Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "chupai chup na hovee je laae rahaa liv taar |",
+            "larivaar": "chupai​chup​na​hovee​je​laae​rahaa​liv​taar​|"
+          },
+          "devanagari": {
+            "text": "चुपै चुप न होवई जे लाइ रहा लिव तार ॥",
+            "larivaar": "चुपै​चुप​न​होवई​जे​लाइ​रहा​लिव​तार​॥"
+          }
+        },
+        "linenum": 5,
+        "firstletters": {
+          "akhar": "ccnhjlrlq",
+          "unicode": "ਚਚਨਹਜਲਰਲਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ZERL",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "BuiKAw BuK n auqrI jy bMnw purIAw Bwr ]",
+          "unicode": "ਭੁਖਿਆ ਭੁਖ ਨ ਉਤਰੀ ਜੇ ਬੰਨਾ ਪੁਰੀਆ ਭਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "BuiKAw​BuK​n​auqrI​jy​bMnw​purIAw​Bwr​]",
+          "unicode": "ਭੁਖਿਆ​ਭੁਖ​ਨ​ਉਤਰੀ​ਜੇ​ਬੰਨਾ​ਪੁਰੀਆ​ਭਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The hunger of the hungry is not appeased, even by piling up loads of worldly goods."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy mYN swry BvxW dy pdwrQW dy Fyr (BI) sWB lvW, qW BI iqRSnw dy ADIn irhW iqRSnw dUr nhIN ho skdI[",
+              "unicode": "ਜੇ ਮੈਂ ਸਾਰੇ ਭਵਣਾਂ ਦੇ ਪਦਾਰਥਾਂ ਦੇ ਢੇਰ (ਭੀ) ਸਾਂਭ ਲਵਾਂ, ਤਾਂ ਭੀ ਤ੍ਰਿਸ਼ਨਾ ਦੇ ਅਧੀਨ ਰਿਹਾਂ ਤ੍ਰਿਸ਼ਨਾ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "Acumulando todos los bienes del mundo, el hambre de tu Alma seguirá sin saciarse."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhukhiaa bhukh na utaree je banaa pureea bhaar |",
+            "larivaar": "bhukhiaa​bhukh​na​utaree​je​banaa​pureea​bhaar​|"
+          },
+          "devanagari": {
+            "text": "भुखिआ भुख न उतरी जे बंना पुरीआ भार ॥",
+            "larivaar": "भुखिआ​भुख​न​उतरी​जे​बंना​पुरीआ​भार​॥"
+          }
+        },
+        "linenum": 5,
+        "firstletters": {
+          "akhar": "BBnajbpB",
+          "unicode": "ਭਭਨੳਜਬਪਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9MN2",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "shs isAwxpw lK hoih q iek n clY nwil ]",
+          "unicode": "ਸਹਸ ਸਿਆਣਪਾ ਲਖ ਹੋਹਿ ਤ ਇਕ ਨ ਚਲੈ ਨਾਲਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "shs​isAwxpw​lK​hoih​q​iek​n​clY​nwil​]",
+          "unicode": "ਸਹਸ​ਸਿਆਣਪਾ​ਲਖ​ਹੋਹਿ​ਤ​ਇਕ​ਨ​ਚਲੈ​ਨਾਲਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Hundreds of thousands of clever tricks, but not even one of them will go along with you in the end."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy (myry ivc) hzwrW qy l`KW cqurweIAW hovx, (qW BI auhnW ivcoN) iek BI cqurweI swQ nhIN dyNdI[",
+              "unicode": "ਜੇ (ਮੇਰੇ ਵਿਚ) ਹਜ਼ਾਰਾਂ ਤੇ ਲੱਖਾਂ ਚਤੁਰਾਈਆਂ ਹੋਵਣ, (ਤਾਂ ਭੀ ਉਹਨਾਂ ਵਿਚੋਂ) ਇਕ ਭੀ ਚਤੁਰਾਈ ਸਾਥ ਨਹੀਂ ਦੇਂਦੀ।"
+            }
+          },
+          "spanish": "Ni siquiera cientos de miles de entrenamientos y preparaciones te llevarán a la Corte del Señor"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sehas siaanapaa lakh hohi ta ik na chalai naal |",
+            "larivaar": "sehas​siaanapaa​lakh​hohi​ta​ik​na​chalai​naal​|"
+          },
+          "devanagari": {
+            "text": "सहस सिआणपा लख होहि त इक न चलै नालि ॥",
+            "larivaar": "सहस​सिआणपा​लख​होहि​त​इक​न​चलै​नालि​॥"
+          }
+        },
+        "linenum": 6,
+        "firstletters": {
+          "akhar": "sslhqencn",
+          "unicode": "ਸਸਲਹਤੲਨਚਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MK1Q",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "ikv sicAwrw hoeIAY ikv kUVY qutY pwil ]",
+          "unicode": "ਕਿਵ ਸਚਿਆਰਾ ਹੋਈਐ ਕਿਵ ਕੂੜੈ ਤੁਟੈ ਪਾਲਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "ikv​sicAwrw​hoeIAY​ikv​kUVY​qutY​pwil​]",
+          "unicode": "ਕਿਵ​ਸਚਿਆਰਾ​ਹੋਈਐ​ਕਿਵ​ਕੂੜੈ​ਤੁਟੈ​ਪਾਲਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So how can you become truthful? And how can the veil of illusion be torn away?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(qW iPr) Akwl purK dw prkwS hox leI Xog ikvyN bx skIdw hY (Aqy swfy AMdr dw) kUV dw prdw ikvyN tu`t skdw hY?",
+              "unicode": "(ਤਾਂ ਫਿਰ) ਅਕਾਲ ਪੁਰਖ ਦਾ ਪਰਕਾਸ਼ ਹੋਣ ਲਈ ਯੋਗ ਕਿਵੇਂ ਬਣ ਸਕੀਦਾ ਹੈ (ਅਤੇ ਸਾਡੇ ਅੰਦਰ ਦਾ) ਕੂੜ ਦਾ ਪਰਦਾ ਕਿਵੇਂ ਟੁੱਟ ਸਕਦਾ ਹੈ?"
+            }
+          },
+          "spanish": "Entonces ¿Cómo podemos conocer la Verdad? ¿Cómo podemos liberarnos de la ilusión?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kiv sachiaaraa hoeeai kiv koorrai tuttai paal |",
+            "larivaar": "kiv​sachiaaraa​hoeeai​kiv​koorrai​tuttai​paal​|"
+          },
+          "devanagari": {
+            "text": "किव सचिआरा होईऐ किव कूड़ै तुटै पालि ॥",
+            "larivaar": "किव​सचिआरा​होईऐ​किव​कूड़ै​तुटै​पालि​॥"
+          }
+        },
+        "linenum": 6,
+        "firstletters": {
+          "akhar": "kshkkqp",
+          "unicode": "ਕਸਹਕਕਤਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "H0PC",
+        "type": 4,
+        "gurmukhi": {
+          "akhar": "hukim rjweI clxw nwnk iliKAw nwil ]1]",
+          "unicode": "ਹੁਕਮਿ ਰਜਾਈ ਚਲਣਾ ਨਾਨਕ ਲਿਖਿਆ ਨਾਲਿ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "hukim​rjweI​clxw​nwnk​iliKAw​nwil​]1]",
+          "unicode": "ਹੁਕਮਿ​ਰਜਾਈ​ਚਲਣਾ​ਨਾਨਕ​ਲਿਖਿਆ​ਨਾਲਿ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, it is written that you shall obey the Hukam of His Command, and walk in the Way of His Will. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rzw dy mwlk Akwl purK dy hukm ivc qurnw-(iehI iek ivDI hY)[ hy nwnk! (ieh ivDI) Dur qoN hI jd qoN jgq bixAw hY, ilKI clI Aw rhI hY ]1]",
+              "unicode": "ਰਜ਼ਾ ਦੇ ਮਾਲਕ ਅਕਾਲ ਪੁਰਖ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰਨਾ-(ਇਹੀ ਇਕ ਵਿਧੀ ਹੈ)। ਹੇ ਨਾਨਕ! (ਇਹ ਵਿਧੀ) ਧੁਰ ਤੋਂ ਹੀ ਜਦ ਤੋਂ ਜਗਤ ਬਣਿਆ ਹੈ, ਲਿਖੀ ਚਲੀ ਆ ਰਹੀ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "Oh, dice Nanak, cuando por Su Gracia nuestro Destino es prefecto y vivimos en el Jukam de Su Voluntad, el velo de la ilusión es levantado. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hukam rajaaee chalanaa naanak likhiaa naal |1|",
+            "larivaar": "hukam​rajaaee​chalanaa​naanak​likhiaa​naal​|1|"
+          },
+          "devanagari": {
+            "text": "हुकमि रजाई चलणा नानक लिखिआ नालि ॥१॥",
+            "larivaar": "हुकमि​रजाई​चलणा​नानक​लिखिआ​नालि​॥१॥"
+          }
+        },
+        "linenum": 7,
+        "firstletters": {
+          "akhar": "hrcnln",
+          "unicode": "ਹਰਚਨਲਨ"
+        }
+      }
+    }
+  ],
+  "error": false
+}
