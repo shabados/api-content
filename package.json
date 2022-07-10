@@ -1,0 +1,25 @@
+{
+  "name": "@shabados/api",
+  "version": "0.0.1",
+  "scripts": {
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx",
+    "build": "tsc",
+    "types": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabados/api.git"
+  },
+  "author": "Harjot Singh <harjot@shabados.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shabados/api/issues"
+  },
+  "homepage": "https://github.com/shabados/api#readme",
+  "devDependencies": {
+    "@shabados/eslint-config": "^0.5.4",
+    "@types/node": "^18.0.1",
+    "typescript": "^4.7.4",
+  },
+}
